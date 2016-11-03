@@ -30,7 +30,7 @@ elif activiter == "course":
     parles = input("Et toi?")
 elif activiter == "le saut en hauteur":
     print ("moi je ne saute pas très haut.")
-    haute = input("tu saute combien de mètre?")
+    haute = input("tu saute combien de mètre ?")
     if haute <1:
         print("tu saute aussi haut que moi.")
     elif haute <2:
